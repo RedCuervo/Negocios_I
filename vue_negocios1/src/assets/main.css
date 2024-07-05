@@ -1,0 +1,27 @@
+@import './base.css';
+@import './css/style.css';
+@import '../../lib/owlcarousel/assets/owl.carousel.min.css';
+
+#app {
+  max-width: auto;
+  margin: 0 auto;
+  font-weight: normal;
+  --color1: #94a43a ;
+  --color2: #c4d464 ;
+  --color3: #805b29 ;
+  --color4: #6b8299 ;
+  --color5: #c5c5a9 ;
+}
+
+
+
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+
+
+
