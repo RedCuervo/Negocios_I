@@ -1,5 +1,4 @@
 <script setup>
-//import { RouterLink, RouterView } from 'vue-router'
 import theHeader from '../src/components/theHeader.vue'
 import theFooter from '../src/components/theFooter.vue'
 </script>
@@ -9,7 +8,7 @@ import theFooter from '../src/components/theFooter.vue'
   <theHeader />
 </header>
 <main>
-  <RouterView />
+    <router-view />
 </main>
 <footer>
   <theFooter />
@@ -18,6 +17,6 @@ import theFooter from '../src/components/theFooter.vue'
 
 <style scoped>
 main {
-  padding-top: 150px; /* Ajusta este valor según la altura de tu encabezado */
+  padding-top: 300px; /* Ajusta este valor según la altura de tu encabezado */
 }
 </style>

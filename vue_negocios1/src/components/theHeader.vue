@@ -98,7 +98,6 @@
   <style scoped>
   
   .container-fluid {
-  border: 1px solid red !important;
   top: 0;
   position: fixed;  
   padding: 0 20px;
