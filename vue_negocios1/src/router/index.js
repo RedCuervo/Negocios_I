@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import main from '../components/main.vue'
-
+import shopview from '../components/shopview.vue'
 
 
 const router = createRouter({
@@ -11,6 +11,12 @@ const router = createRouter({
       name: 'Inicio',
       component: main
     },
+    {
+      path: '/shop',
+      name: 'Todos los Productos',
+      component: shopview
+    },
+    
   ]
 })
 
