@@ -75,7 +75,6 @@
               <div class="navbar-nav mr-auto py-0">
                 <RouterLink to="/" class="nav-item nav-link active">Home</RouterLink>
                 <RouterLink to="/shop" class="nav-item nav-link">Shop</RouterLink>
-                <a href="detail.html" class="nav-item nav-link">Shop Detail</a>
                 <div class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                   <div class="dropdown-menu rounded-0 m-0">
