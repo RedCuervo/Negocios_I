@@ -32,22 +32,22 @@
             <div id="header-carousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active" style="height: 410px;">
-                        <img class="img-fluid" src="../assets/img/carousel-1.jpg" alt="Image">
+                        <img class="img-fluid" src="../assets/img/producto-8_metadyne-40-servicios-nubreed-quemador.jpg" alt="Image">
                         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
-                                <h4 class="text-light text-uppercase font-weight-medium mb-3">10% Off Your First Order</h4>
-                                <h3 class="display-4 text-white font-weight-semi-bold mb-4">Fashionable Dress</h3>
-                                <RouterLink to="/details" class="btn btn-light py-2 px-3">Shop Now</RouterLink>
+                                <h4 class="text-light text-uppercase font-weight-medium mb-3" style="background-color: black !important;">10% Off Your First Order</h4>
+                                <br>
+                                <RouterLink to="/product" class="btn btn-light py-2 px-3">Shop Now</RouterLink>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item" style="height: 410px;">
-                        <img class="img-fluid" src="../assets/img/carousel-2.jpg" alt="Image">
+                        <img class="img-fluid" src="../assets/img/imagen-5_coke-pre-workout-con-clembu.jpg" alt="Image">
                         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
                                 <h4 class="text-light text-uppercase font-weight-medium mb-3">10% Off Your First Order</h4>
                                 <h3 class="display-4 text-white font-weight-semi-bold mb-4">Reasonable Price</h3>
-                                <RouterLink to="/details" class="btn btn-light py-2 px-3">Shop Now</RouterLink>
+                                <RouterLink to="/product" class="btn btn-light py-2 px-3">Shop Now</RouterLink>
                             </div>
                         </div>
                     </div>
@@ -105,54 +105,54 @@
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
                     <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-1.jpg" alt="">
+                        <img class="img-fluid" src="../assets/img/producto-10_kaio-ken-pre-entreno-dragon-ball.jpg" alt="">
                     </a>
-                    <h5 class="font-weight-semi-bold m-0">Men's dresses</h5>
+                    <h5 class="font-weight-semi-bold m-0">Pre-entreno</h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 pb-1">
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
                     <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-2.jpg" alt="">
+                        <img class="img-fluid" src="../assets/img/producto-2_iso-amino-30-servs-man.jpg" alt="">
                     </a>
-                    <h5 class="font-weight-semi-bold m-0">Women's dresses</h5>
+                    <h5 class="font-weight-semi-bold m-0">Aminoacidos</h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 pb-1">
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
                     <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-3.jpg" alt="">
+                        <img class="img-fluid" src="../assets/img/producto-4_ala-acido-alfa-lipoico-alpha-lipoic-acid-dymatize.jpg" alt="">
                     </a>
-                    <h5 class="font-weight-semi-bold m-0">Baby's dresses</h5>
+                    <h5 class="font-weight-semi-bold m-0">Antioxidantes</h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 pb-1">
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
                     <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-4.jpg" alt="">
+                        <img class="img-fluid" src="../assets/img/producto-11_vendas-para-rodillas-monkey-power-rojas-con-negro.jpg" alt="">
                     </a>
-                    <h5 class="font-weight-semi-bold m-0">Accerssories</h5>
+                    <h5 class="font-weight-semi-bold m-0">Accesorios</h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 pb-1">
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
                     <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-5.jpg" alt="">
+                        <img class="img-fluid" src="../assets/img/producto-5_clenbu-clenbuterol-de-nitro-labs-100-tabs-25mcg.jpg" alt="">
                     </a>
-                    <h5 class="font-weight-semi-bold m-0">Bags</h5>
+                    <h5 class="font-weight-semi-bold m-0">Farmacos</h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 pb-1">
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
                     <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-6.jpg" alt="">
+                        <img class="img-fluid" src="../assets/img/producto-8_metadyne-40-servicios-nubreed-quemador.jpg" alt="">
                     </a>
-                    <h5 class="font-weight-semi-bold m-0">Shoes</h5>
+                    <h5 class="font-weight-semi-bold m-0">Quemadores de grasa</h5>
                 </div>
             </div>
         </div>
@@ -165,7 +165,7 @@
         <div class="row px-xl-5">
             <div class="col-md-6 pb-4">
                 <div class="position-relative bg-secondary text-center text-md-right text-white mb-2 py-5 px-5">
-                    <img src="../assets/img/offer-1.png" alt="">
+                    <img src="../assets/img/imagen-2_shinning-bcaas-cla-de-army-nutrition.jpg" alt="">
                     <div class="position-relative" style="z-index: 1;">
                         <h5 class="text-uppercase text-primary mb-3">20% off the all order</h5>
                         <h1 class="mb-4 font-weight-semi-bold">Spring Collection</h1>
@@ -175,7 +175,7 @@
             </div>
             <div class="col-md-6 pb-4">
                 <div class="position-relative bg-secondary text-center text-md-left text-white mb-2 py-5 px-5">
-                    <img src="../assets/img/offer-2.png" alt="">
+                    <img src="../assets/img/imagen-4_metadyne-40-servicios-nubreed-quemador.jpg" alt="">
                     <div class="position-relative" style="z-index: 1;">
                         <h5 class="text-uppercase text-primary mb-3">20% off the all order</h5>
                         <h1 class="mb-4 font-weight-semi-bold">Winter Collection</h1>
@@ -197,7 +197,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-1.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-1_Shinning-bcaas-cla-de-army.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -214,7 +214,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-2.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-2_iso-amino-30-servs-man.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -231,7 +231,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-3.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-3_bcaas-de-puro-campeon-180-caps.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -248,7 +248,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-4.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-4_ala-acido-alfa-lipoico-alpha-lipoic-acid-dymatize.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -265,7 +265,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-5.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-5_clenbu-clenbuterol-de-nitro-labs-100-tabs-25mcg.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -282,7 +282,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-6.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-6_clembudark-clembuterol-100-tabs-30mcg-dark-matter.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -299,7 +299,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-7.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-7_in-flames-90-capsulas-adictos-al-gym.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -316,7 +316,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-8.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-8_metadyne-40-servicios-nubreed-quemador.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -366,7 +366,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-1.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-9_coke-pre-workout-con-clembu.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -383,7 +383,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-2.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-10_kaio-ken-pre-entreno-dragon-ball.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -400,7 +400,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-3.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-3_bcaas-de-puro-campeon-180-caps.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -417,7 +417,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-4.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-4_ala-acido-alfa-lipoico-alpha-lipoic-acid-dymatize.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -434,7 +434,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-5.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-8_metadyne-40-servicios-nubreed-quemador.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -451,7 +451,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-6.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-5_clenbu-clenbuterol-de-nitro-labs-100-tabs-25mcg.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -468,7 +468,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-7.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-7_in-flames-90-capsulas-adictos-al-gym.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -485,7 +485,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="card product-item border-0 mb-4">
                     <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
-                        <img class="img-fluid w-100" src="../assets/img/product-8.jpg" alt="">
+                        <img class="img-fluid w-100" src="../assets/img/producto-1_Shinning-bcaas-cla-de-army.jpg" alt="">
                     </div>
                     <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
                         <h6 class="text-truncate mb-3">Colorful Stylish Shirt</h6>
@@ -510,22 +510,22 @@
             <div class="col">
                 <div class="owl-carousel vendor-carousel">
                     <div class="vendor-item border p-4">
-                        <img src="../assets/img/vendor-1.jpg" alt="">
+                        <img src="../assets/img/vendor-1_126-brand_default.jpg" alt="">
                     </div>
                     <div class="vendor-item border p-4">
-                        <img src="../assets/img/vendor-2.jpg" alt="">
+                        <img src="../assets/img/vendor-2_55-brand_default.jpg" alt="">
                     </div>
                     <div class="vendor-item border p-4">
-                        <img src="../assets/img/vendor-3.jpg" alt="">
+                        <img src="../assets/img/vendor-3_122-brand_default.jpg" alt="">
                     </div>
                     <div class="vendor-item border p-4">
-                        <img src="../assets/img/vendor-4.jpg" alt="">
+                        <img src="../assets/img/vendor-4_139-brand_default.jpg" alt="">
                     </div>
                     <div class="vendor-item border p-4">
-                        <img src="../assets/img/vendor-5.jpg" alt="">
+                        <img src="../assets/img/vendor-5_28.jpg" alt="">
                     </div>
                     <div class="vendor-item border p-4">
-                        <img src="../assets/img/vendor-6.jpg" alt="">
+                        <img src="../assets/img/vendor-6_45.jpg" alt="">
                     </div>
                     <div class="vendor-item border p-4">
                         <img src="../assets/img/vendor-7.jpg" alt="">
@@ -541,4 +541,36 @@
 
 </template>
 <style></style>
-<script></script>
+<script>
+export default {
+    data(){
+        return{
+            images:[
+            "../assets/img/producto-4_ala-acido-alfa-lipoico-alpha-lipoic-acid-dymatize.jpg",
+            "../assets/img/producto-3_bcaas-de-puro-campeon-180-caps.jpg",
+            "../assets/img/producto-2_iso-amino-30-servs-man.jpg",
+            "../assets/img/producto-1_Shinning-bcaas-cla-de-army.jpg",
+            "../assets/img/producto-9_coke-pre-workout-con-clembu.jpg",
+            "../assets/img/producto-8_metadyne-40-servicios-nubreed-quemador.jpg",
+            "../assets/img/producto-7_in-flames-90-capsulas-adictos-al-gym.jpg",
+            "../assets/img/producto-6_clembudark-clembuterol-100-tabs-30mcg-dark-matter.jpg",
+            "../assets/img/producto-5_clenbu-clenbuterol-de-nitro-labs-100-tabs-25mcg.jpg",
+            "../assets/img/producto-10_kaio-ken-pre-entreno-dragon-ball.jpg",
+            "../assets/img/producto-11_vendas-para-rodillas-monkey-power-rojas-con-negro.jpg",
+            "../assets/img/imagen-2_shinning-bcaas-cla-de-army-nutrition.jpg",
+            "../assets/img/imagen-5_coke-pre-workout-con-clembu.jpg",    
+            ],
+            randomImage: ''
+        };
+    },
+    mounted(){
+        this.generateRandomImage();
+    },
+    methods:{
+        generateRandomImage(){
+        this.randomImage = this.images[Math.floor(Math.random()* this.images.length)];
+    }
+}
+}
+
+</script>
