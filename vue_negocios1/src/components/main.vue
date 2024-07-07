@@ -16,15 +16,14 @@
                             <a href="" class="dropdown-item">Baby's Dresses</a>
                         </div>
                     </div>
-                    <a href="" class="nav-item nav-link">Shirts</a>
-                    <a href="" class="nav-item nav-link">Jeans</a>
-                    <a href="" class="nav-item nav-link">Swimwear</a>
-                    <a href="" class="nav-item nav-link">Sleepwear</a>
-                    <a href="" class="nav-item nav-link">Sportswear</a>
-                    <a href="" class="nav-item nav-link">Jumpsuits</a>
-                    <a href="" class="nav-item nav-link">Blazers</a>
-                    <a href="" class="nav-item nav-link">Jackets</a>
-                    <a href="" class="nav-item nav-link">Shoes</a>
+                    <a href="" class="nav-item nav-link">Vitaminas y Minerales</a>
+                    <a href="" class="nav-item nav-link">Proteínas</a>
+                    <a href="" class="nav-item nav-link">Suplementos Deportivos</a>
+                    <a href="" class="nav-item nav-link">Suplementos Para la Salud</a>
+                    <a href="" class="nav-item nav-link">Control de Peso</a>
+                    <a href="" class="nav-item nav-link">Energía y Mesistencia</a>
+                    <a href="" class="nav-item nav-link">Salud y Bienestar</a>
+                    <a href="" class="nav-item nav-link">Productos Naturales y Orgánicos</a>
                 </div>
             </nav>
         </div>
@@ -35,9 +34,9 @@
                         <img class="img-fluid" src="../assets/img/carousel-1.jpg" alt="Image">
                         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
-                                <h4 class="text-light text-uppercase font-weight-medium mb-3">10% Off Your First Order</h4>
-                                <h3 class="display-4 text-white font-weight-semi-bold mb-4">Fashionable Dress</h3>
-                                <RouterLink to="/details" class="btn btn-light py-2 px-3">Shop Now</RouterLink>
+                                <h4 class="text-light text-uppercase font-weight-medium mb-3">10% Descuento en Tu Primer Orden</h4>
+                                <h3 class="display-4 text-white font-weight-semi-bold mb-4">Proteínas</h3>
+                                <RouterLink to="/details" class="btn btn-light py-2 px-3">Cómpralo Ya</RouterLink>
                             </div>
                         </div>
                     </div>
@@ -45,9 +44,9 @@
                         <img class="img-fluid" src="../assets/img/carousel-2.jpg" alt="Image">
                         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
-                                <h4 class="text-light text-uppercase font-weight-medium mb-3">10% Off Your First Order</h4>
-                                <h3 class="display-4 text-white font-weight-semi-bold mb-4">Reasonable Price</h3>
-                                <RouterLink to="/details" class="btn btn-light py-2 px-3">Shop Now</RouterLink>
+                                <h4 class="text-light text-uppercase font-weight-medium mb-3">10% Descuento en Tu Primer Ordenr</h4>
+                                <h3 class="display-4 text-white font-weight-semi-bold mb-4">Vitaminas</h3>
+                                <RouterLink to="/details" class="btn btn-light py-2 px-3">Cómpralo Ya</RouterLink>
                             </div>
                         </div>
                     </div>
