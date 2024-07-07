@@ -4,10 +4,10 @@
           <div class="col-lg-6 d-none d-lg-block">
             <div class="d-inline-flex align-items-center w-100">
               <a class="text-dark" href="">FAQs</a>
-              <span class="text-muted px-2" style="color: rgb(101, 67, 199) !important;">|</span>
-              <a class="text-dark" href="">Help</a>
+              <span class="text-muted px-2" >|</span>
+              <a class="text-dark" href="">Ayuda</a>
               <span class="text-muted px-2">|</span>
-              <a class="text-dark" href="">Support</a>
+              <a class="text-dark" href="">Soporte</a>
             </div>
           </div>
           <div class="col-lg-6 text-center text-lg-right">
@@ -73,20 +73,20 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
               <div class="navbar-nav mr-auto py-0">
-                <RouterLink to="/" class="nav-item nav-link active">Home</RouterLink>
-                <RouterLink to="/shop" class="nav-item nav-link">Shop</RouterLink>
+                <RouterLink to="/" class="nav-item nav-link active">Inicio</RouterLink>
+                <RouterLink to="/shop" class="nav-item nav-link">Tienda</RouterLink>
                 <div class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
+                  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
                   <div class="dropdown-menu rounded-0 m-0">
-                    <a href="cart.html" class="dropdown-item">Shopping Cart</a>
-                    <a href="checkout.html" class="dropdown-item">Checkout</a>
+                    <a href="cart.html" class="dropdown-item">Carrito</a>
+                    <a href="checkout.html" class="dropdown-item">Pago</a>
                   </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="contact.html" class="nav-item nav-link">Contáctanos</a>
               </div>
               <div class="navbar-nav ml-auto py-0">
-                <a href="" class="nav-item nav-link">Login</a>
-                <a href="" class="nav-item nav-link">Register</a>
+                <a href="" class="nav-item nav-link">Iniciar Sesión</a>
+                <a href="" class="nav-item nav-link">Registrar</a>
               </div>
             </div>
           </nav>
