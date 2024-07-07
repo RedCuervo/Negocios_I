@@ -1,6 +1,7 @@
 <script setup>
 import theHeader from '../src/components/theHeader.vue'
 import theFooter from '../src/components/theFooter.vue'
+import product from '../src/components/product.vue'
 </script>
 
 <template>
@@ -9,6 +10,7 @@ import theFooter from '../src/components/theFooter.vue'
 </header>
 <main>
     <router-view />
+    <product />
 </main>
 <footer>
   <theFooter />
