@@ -4,7 +4,7 @@
           <div class="col-lg-6 d-none d-lg-block">
             <div class="d-inline-flex align-items-center w-100">
               <a class="text-dark" href="">FAQs</a>
-              <span class="text-muted px-2">|</span>
+              <span class="text-muted px-2" style="color: rgb(101, 67, 199) !important;">|</span>
               <a class="text-dark" href="">Help</a>
               <span class="text-muted px-2">|</span>
               <a class="text-dark" href="">Support</a>
@@ -34,7 +34,7 @@
           <div class="col-lg-5 d-none d-lg-block">
             <a href="" class="text-decoration-none">
               <h1 class="m-0 display-5 font-weight-semi-bold">
-                <span style="color: rgb(47, 223, 190) !important;" class="text-primary font-weight-bold border px-3 mr-1">Platinum</span>Suplements
+                <span style="color: rgb(101, 67, 199) !important;" class="text-primary font-weight-bold border px-3 mr-1">Platinum</span>Suplements
               </h1>
             </a>
           </div>
@@ -65,7 +65,7 @@
           <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
             <a href="" class="text-decoration-none d-block d-lg-none">
               <h1 class="m-0 display-5 font-weight-semi-bold">
-                <span style="color: rgb(47, 223, 190) !important;" class="text-primary font-weight-bold border px-3 mr-1">Platinum</span>Suplements
+                <span style="color: rgb(101, 67, 199) !important;" class="text-primary font-weight-bold border px-3 mr-1">Platinum</span>Suplements
               </h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
