@@ -6,7 +6,7 @@
             <div class="col-lg-3 col-md-12">
                 <!-- Price Start -->
                 <div class="border-bottom mb-4 pb-4">
-                    <h5 class="font-weight-semi-bold mb-4">Filter by price</h5>
+                    <h5 class="font-weight-semi-bold mb-4">Filtrado por Precio</h5>
                     <form>
                         <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
                             <input type="checkbox" class="custom-control-input" checked id="price-all">
@@ -44,7 +44,7 @@
                 
                 <!-- Color Start -->
                 <div class="border-bottom mb-4 pb-4">
-                    <h5 class="font-weight-semi-bold mb-4">Filter by color</h5>
+                    <h5 class="font-weight-semi-bold mb-4">Filtrado por Color</h5>
                     <form>
                         <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
                             <input type="checkbox" class="custom-control-input" checked id="color-all">
@@ -82,7 +82,7 @@
 
                 <!-- Size Start -->
                 <div class="mb-5">
-                    <h5 class="font-weight-semi-bold mb-4">Filter by size</h5>
+                    <h5 class="font-weight-semi-bold mb-4">Filtrado por Tamaño</h5>
                     <form>
                         <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
                             <input type="checkbox" class="custom-control-input" checked id="size-all">
@@ -142,9 +142,9 @@
                                             Sort by
                                         </button>
                                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="triggerId">
-                                    <a class="dropdown-item" href="#">Latest</a>
-                                    <a class="dropdown-item" href="#">Popularity</a>
-                                    <a class="dropdown-item" href="#">Best Rating</a>
+                                    <a class="dropdown-item" href="#">Nuevo</a>
+                                    <a class="dropdown-item" href="#">Popularidad</a>
+                                    <a class="dropdown-item" href="#">Mejor Calificados</a>
                                 </div>
                             </div>
                         </div>
