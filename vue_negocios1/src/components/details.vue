@@ -4,20 +4,20 @@
      <div class="row">
         <div class="col-sm-6 border mx-4 mb-3">
             <center>
-                <img src="https://yaoca.com/cdn/shop/products/arte1.jpg?v=1704416955" width="70%" alt="" srcset="">
+                <img src="assets/img/Prod1-1.jpg" width="70%" alt="" srcset="">
             </center>
           </div>
           <div class="col-sm-5 mx-3 mb-3 pb-3">
             <div class="container my-4">
-                <h5 align="center"><strong>Proteína Isolate Sabor Chocolate 1 Kg </strong></h5>
+                <h5 align="center"><strong>Multivitamínico para hombre </strong></h5>
             </div>
             <div class="container">
                 <h5><strong>Descripción:</strong></h5>
-                <p>Es un macronutriente esencial para el crecimiento y el mantenimiento de las estructuras corporales.</p>
+                <p>Multivitamínico para Hombre 180 Cápsulas de 650 mg por cápsula. Creatina Monohidratada, BCAA 2:1:1 (L-Leucina, L-Isoleucina, L-Valina) y L-Arginina. Ingredientes Naturales. Mens Blend B Life.</p>
             </div>
             <div class="container">
                 <h5><strong>Precio:</strong></h5>
-                <p>$ 990.00 <br>Los gastos de envío se calculan en la pantalla de pagos. </p>
+                <p>$ 381.00 <br>Los gastos de envío se calculan en la pantalla de pagos. </p>
             </div>
             <div class="container">
                 <h5><strong>Stock:</strong></h5>
