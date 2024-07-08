@@ -3,7 +3,7 @@
     <div class="row border-top px-xl-5">
         <div class="col-lg-3 d-none d-lg-block">
             <a class="btn shadow-none d-flex align-items-center justify-content-between bg-primary text-white w-100" data-toggle="collapse" href="#navbar-vertical" style="height: 65px; margin-top: -1px; padding: 0 30px;">
-                <h6 class="m-0">Categories</h6>
+                <h6 class="m-0">Categorías</h6>
                 <i class="fa fa-angle-down text-dark"></i>
             </a>
             <nav class="collapse show navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0" id="navbar-vertical">
@@ -100,15 +100,39 @@
     <!-- Categories Start -->
     <div class="container-fluid pt-5">
         <div class="row px-xl-5 pb-3">
-            <div class="col-lg-4 col-md-6 pb-1">
-                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                    <p class="text-right">15 Products</p>
-                    <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                        <img class="img-fluid" src="../assets/img/cat-1.jpg" alt="">
-                    </a>
-                    <h5 class="font-weight-semi-bold m-0">Men's dresses</h5>
-                </div>
+            <div class="row">
+        <div class="col-sm-6 border mx-4 mb-3">
+            <center>
+                <img src="https://yaoca.com/cdn/shop/products/arte1.jpg?v=1704416955" width="70%" alt="" srcset="">
+            </center>
+          </div>
+          <div class="col-sm-5 mx-3 mb-3 pb-3">
+            <div class="container my-4">
+                <h5 align="center"><strong>Proteína Isolate Sabor Chocolate 1 Kg </strong></h5>
             </div>
+            <div class="container">
+                <h5><strong>Descripción:</strong></h5>
+                <p>Es un macronutriente esencial para el crecimiento y el mantenimiento de las estructuras corporales.</p>
+            </div>
+            <div class="container">
+                <h5><strong>Precio:</strong></h5>
+                <p>$ 990.00 <br>Los gastos de envío se calculan en la pantalla de pagos. </p>
+            </div>
+            <div class="container">
+                <h5><strong>Stock:</strong></h5>
+                <p>26</p>
+            </div>
+            <div class="container">
+                <h5><strong>Cantidad</strong></h5>
+                    <div class="quantity-container">
+                        <button class="quantity-button minus" onclick="decrementQuantity()">-</button>
+                        <input type="text" id="quantity" value="1" min="1" max="26">
+                        <button class="quantity-button plus" onclick="incrementQuantity()">+</button>
+                        <button class="add-to-cart-button" onclick="addToCart()">Agregar al carrito</button>
+                    </div>    
+            </div>
+          </div>
+     </div>
             <div class="col-lg-4 col-md-6 pb-1">
                 <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
                     <p class="text-right">15 Products</p>
