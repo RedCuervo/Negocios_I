@@ -1,5 +1,5 @@
 <template>
-       <template>
+       
     <div class="container pt-3 my-3">
      <div class="row">
         <div class="col-sm-6 border mx-4 mb-3">
@@ -66,6 +66,7 @@
         </div>
     </div>
 </template>
+
 <style>
 
 </style>
