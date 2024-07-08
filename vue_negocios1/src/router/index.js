@@ -4,6 +4,8 @@ import shopview from '../components/shopview.vue'
 import details from '../components/details.vue'
 import FAQ from '../components/FAQ.vue'
 import privacy from '../components/privacy.vue'
+import login from '../components/login.vue'
+import register from '../components/register.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -12,6 +14,16 @@ const router = createRouter({
       path: '/',
       name: 'Inicio',
       component: main
+    },
+    {
+      path: '/login',
+      name: 'Login',
+      component: login
+    },
+    {
+      path: '/register',
+      name: 'Register',
+      component: register
     },
     {
       path: '/shop',
