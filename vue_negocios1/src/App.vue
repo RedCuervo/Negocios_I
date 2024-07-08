@@ -17,6 +17,8 @@ import theFooter from '../src/components/theFooter.vue'
 
 <style scoped>
 main {
-  padding-top: 300px; /* Ajusta este valor según la altura de tu encabezado */
+  padding-top: 220px; /* Ajusta este valor según la altura de tu encabezado */
 }
+
+  
 </style>

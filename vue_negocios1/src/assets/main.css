@@ -6,14 +6,24 @@
   max-width: auto;
   margin: 0 auto;
   font-weight: normal;
-  --color1: #94a43a ;
-  --color2: #c4d464 ;
-  --color3: #805b29 ;
-  --color4: #6b8299 ;
-  --color5: #c5c5a9 ;
+  --color1: #94a43a;
+  --color2: #c4d464;
+  --color3: #805b29;
+  --color4: #6b8299;
+  --color5: #c5c5a9;
+  --color6: #ffffff;
+  --color7: #5e9188;
+  --color8: #3e5954;
+  --color9: #253342;
+  --color10:#232226;
+  --color11: rgb(101, 67, 199);
+  --color11_opaco: rgba(100, 67, 199, 0.275);
 }
 
-
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active {
+  color:var(--color4) !important;
+  background-color: transparent;
+}
 
 
 @media (hover: hover) {
