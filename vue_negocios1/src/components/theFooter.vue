@@ -5,7 +5,7 @@
         <div class="row px-xl-5 pt-5">
             <div class="col-lg-5 col-md-12 mb-5 pr-3 pr-xl-5">
                 <a href="" class="text-decoration-none">
-                    <h1 class="m-0 display-5 font-weight-semi-bold"><span style="color: rgb(47, 223, 190) !important;" class="text-primary font-weight-bold border px-3 mr-1" >Platinum</span>Suplements</h1>
+                    <h1 class="m-0 display-5 font-weight-semi-bold"><span style="color: var(--color11) !important;" class="text-primary font-weight-bold border px-3 mr-1" >Platinum</span>Suplements</h1>
                 </a>
                 <p>Nuestra misión es proporcionar a nuestros clientes los mejores suplementos deportivos y productos relacionados, asegurando calidad, variedad y asesoramiento experto para apoyar sus metas de salud y fitness.</p>
                 <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Av. Tecnologíco, Aguascalientes, México</p>

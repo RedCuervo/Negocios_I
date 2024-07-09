@@ -1,12 +1,29 @@
 <template>
 
-    <div class="container border-0 pt-3 my-3">
-        <center>
-            <div class="row">
-            <div class="col-sm-6 border-0 mx-4 mb-3">
-                <center>
-                    <img src="../assets/img/Prod1-1.jpg" width="70%" alt="" srcset="">
-                </center>
+       
+    <div class="container pt-3 my-3">
+     <div class="row">
+        <div class="col-sm-6 border mx-4 mb-3">
+            <center>
+                <img src="../assets/img/Prod1-1.jpg" width="70%" alt="" srcset="">
+            </center>
+          </div>
+          <div class="col-sm-5 mx-3 mb-3 pb-3">
+            <div class="container my-4">
+                <h5 align="center"><strong>Multivitamínico para hombre </strong></h5>
+            </div>
+            <div class="container">
+                <h5><strong>Descripción:</strong></h5>
+                <p>Multivitamínico para Hombre 180 Cápsulas de 650 mg por cápsula. Creatina Monohidratada, BCAA 2:1:1 (L-Leucina, L-Isoleucina, L-Valina) y L-Arginina. Ingredientes Naturales. Mens Blend B Life.</p>
+            </div>
+            <div class="container">
+                <h5><strong>Precio:</strong></h5>
+                <p>$ 381.00 <br>Los gastos de envío se calculan en la pantalla de pagos. </p>
+            </div>
+            <div class="container">
+                <h5><strong>Stock:</strong></h5>
+                <p>26</p>
+
             </div>
             <div class="col-sm-5 border mb-3 pb-3">
                 <div class="container border-0 my-4">
