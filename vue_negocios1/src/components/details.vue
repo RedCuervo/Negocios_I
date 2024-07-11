@@ -1,6 +1,5 @@
 <template>
-
-    <div class="container border-0 pt-3 my-3">
+  <div class="container border-0 pt-3 my-3">
         <center>
             <div class="row">
                 <div class="col-sm-6 border-0 mx-4 mb-3">
@@ -52,14 +51,12 @@
                                     <i class="fas fa-heart" aria-hidden="true"></i>
                                 </button>
                             </center>
-
                         </div>
                     </div>
                 </div>
             </div>
         </center>
     </div>
-
     <div class="container border-0 mt-1 mb-1">
         <div class="container border-top-0 border-right-0 border-left-0 mt-3 mb-3">
             <h5><strong>Reseñas</strong></h5>

@@ -85,8 +85,8 @@
                 <a href="contact.html" class="nav-item nav-link">Contáctanos</a>
               </div>
               <div class="navbar-nav ml-auto py-0">
-                <a href="" class="nav-item nav-link">Iniciar Sesión</a>
-                <a href="" class="nav-item nav-link">Registrar</a>
+                 <RouterLink to="/login" class="nav-item nav-link active">Inicio</RouterLink>
+                <RouterLink to="/register"register class="nav-item nav-link active">Register</RouterLink>
               </div>
             </div>
           </nav>
