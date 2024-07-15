@@ -55,7 +55,7 @@
                     <i class="fas fa-heart text-primary"></i>
                     <span class="badge">0</span>
                 </a>
-                <a href="" class="btn border">
+                <a href="/cart" class="btn border">
                     <i class="fas fa-shopping-cart text-primary"></i>
                     <span class="badge">0</span>
                 </a>
@@ -86,7 +86,8 @@
               </div>
               <div class="navbar-nav ml-auto py-0">
                  <RouterLink to="/login" class="nav-item nav-link active">Inicio</RouterLink>
-                <RouterLink to="/register"register class="nav-item nav-link active">Register</RouterLink>
+                <RouterLink to="/register"class="nav-item nav-link active">Register</RouterLink>
+                <RouterLink to="/planes" class="nav-item nav-link active">Planes</RouterLink>
               </div>
             </div>
           </nav>

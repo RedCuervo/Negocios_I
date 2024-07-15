@@ -4,7 +4,7 @@
      <div class="row">
         <div class="col-sm-6 border mx-4 mb-3">
             <center>
-                <img src="assets/img/Prod1-1.jpg" width="70%" alt="" srcset="">
+                <img src="../assets/img/Prod1-1.jpg" width="70%" alt="" srcset="">
             </center>
           </div>
           <div class="col-sm-5 mx-3 mb-3 pb-3">
