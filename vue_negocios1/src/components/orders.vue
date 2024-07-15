@@ -146,23 +146,27 @@
     </div>
 </template>
 <style scoped>
-hr{
+hr {
     border: 1px solid black;
 }
-.container{
+
+.container {
     padding: 1%;
 }
-.caja-top{
+
+.caja-top {
     padding-top: 1%;
     padding-left: 1%;
     background-color: #edf1ff;
     border-radius: 10px 10px 0px 0px;
 }
-.caja-bottom{
+
+.caja-bottom {
     padding: 2%;
     border-top: hidden;
     border-radius: 0px 0px 10px 10px;
 }
+
 .btn {
     background-color: rgb(101, 67, 199);
     border: none;
