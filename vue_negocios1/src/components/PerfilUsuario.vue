@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <h3>Historial de Compras</h3>
+      <h3> <a href="/orders">Historial de Compras</a></h3>
       <div class="card">
         <div class="card-body">
           <ul>

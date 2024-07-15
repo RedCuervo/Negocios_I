@@ -51,7 +51,7 @@
                 </form>
             </div>
             <div class="col-lg-2 col-6 text-right">
-                <a href="" class="btn border">
+                <a href="/wishlist" class="btn border">
                     <i class="fas fa-heart text-primary"></i>
                     <span class="badge">0</span>
                 </a>
@@ -78,8 +78,8 @@
                 <div class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
                   <div class="dropdown-menu rounded-0 m-0">
-                    <a href="cart.html" class="dropdown-item">Carrito</a>
-                    <a href="checkout.html" class="dropdown-item">Pago</a>
+                    <a href="/cart" class="dropdown-item">Carrito</a>
+                    <a href="/checkout" class="dropdown-item">Pago</a>
                   </div>
                 </div>
                 <a href="contact.html" class="nav-item nav-link">Contáctanos</a>
