@@ -6,8 +6,10 @@
       <h2>Cliente</h2>
     </div>
     
+    
     <div class="profile-content">
-      <h3>Detalles Personales</h3>
+      
+      <h3>Datos Personales</h3>
       <div class="card">
         <div class="card-body">
           <p><strong>Nombre:</strong> Juan Pérez</p>
