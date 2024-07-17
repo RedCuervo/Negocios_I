@@ -45,7 +45,7 @@
       <div class="card">
         <div class="card-body">
           <p><strong>Correo Electrónico:</strong> juan.perez@example.com</p>
-          <p><strong>Teléfono:</strong> +1234567890</p>
+          <p><strong>Teléfono: </strong> +1234567890</p>
           <p><strong>Contraseña:</strong> **********</p>
           <a href="#" class="btn btn-primary">Editar Información</a>
         </div>
