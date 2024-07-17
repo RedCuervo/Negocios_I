@@ -32,6 +32,9 @@
   }
 }
 
+.btn-primary{
+  background-color: var(--color4);
+}
 
 
 

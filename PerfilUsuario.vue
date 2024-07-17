@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <h3> <a href="/orders">Historial de Compras</a></h3>
+      <h3>Historial de Compras</h3>
       <div class="card">
         <div class="card-body">
           <ul>
@@ -45,7 +45,7 @@
       <div class="card">
         <div class="card-body">
           <p><strong>Correo Electrónico:</strong> juan.perez@example.com</p>
-          <p><strong>Teléfono:</strong> +1234567890</p>
+          <p><strong>Teléfono: </strong> +1234567890</p>
           <p><strong>Contraseña:</strong> **********</p>
           <a href="#" class="btn btn-primary">Editar Información</a>
         </div>

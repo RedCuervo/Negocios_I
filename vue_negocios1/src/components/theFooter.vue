@@ -5,7 +5,7 @@
         <div class="row px-xl-5 pt-5">
             <div class="col-lg-5 col-md-12 mb-5 pr-3 pr-xl-5">
                 <a href="" class="text-decoration-none">
-                    <h1 class="m-0 display-5 font-weight-semi-bold"><span style="color: rgb(47, 223, 190) !important;" class="text-primary font-weight-bold border px-3 mr-1" >Platinum</span>Suplements</h1>
+                    <h1 class="m-0 display-5 font-weight-semi-bold"><span style="color: var(--color11) !important;" class="text-primary font-weight-bold border px-3 mr-1" >Platinum</span>Suplements</h1>
                 </a>
                 <p>Nuestra misión es proporcionar a nuestros clientes los mejores suplementos deportivos y productos relacionados, asegurando calidad, variedad y asesoramiento experto para apoyar sus metas de salud y fitness.</p>
                 <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Av. Tecnologíco, Aguascalientes, México</p>
@@ -20,12 +20,12 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Preguntas</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Preguntas.html#collapseOne"><i class="fa fa-angle-right mr-2"></i>Realizar pedido</a>
-                            <a class="text-dark mb-2" href="shop.html"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
-                            <a class="text-dark mb-2" href="detail.html"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
-                            <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                            <a class="text-dark mb-2" href="/FAQ"><i class="fa fa-angle-right mr-2"></i>Realizar pedido</a>
+                            <a class="text-dark mb-2" href="/shop"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
+                            <a class="text-dark mb-2" href="/shop"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
+                            <a class="text-dark mb-2" href="/cart"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-dark mb-2" href="/checkout"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-dark" href="/contact"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
@@ -33,9 +33,9 @@
                         <div class="d-flex flex-column justify-content-start">
                             <RouterLink to="/AboutUs" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Quienes somos</RouterLink>
                             <RouterLink to="/Terms" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Terminos y condiciones</RouterLink>
-                            <a class="text-dark mb-2" href="Preguntas.html"><i class="fa fa-angle-right mr-2"></i>Preguntas y respuestas</a>
+                            <a class="text-dark mb-2" href="/FAQl"><i class="fa fa-angle-right mr-2"></i>Preguntas y respuestas</a>
                             <RouterLink to="/privacy" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Aviso de privacidad</RouterLink>
-                            <a class="text-dark mb-2" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
+                            <a class="text-dark mb-2" href="/contact"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">

@@ -51,7 +51,7 @@
                 </form>
             </div>
             <div class="col-lg-2 col-6 text-right">
-                <a href="" class="btn border">
+                <a href="/wishlist" class="btn border">
                     <i class="fas fa-heart text-primary"></i>
                     <span class="badge">0</span>
                 </a>
@@ -59,7 +59,15 @@
                     <i class="fas fa-shopping-cart text-primary"></i>
                     <span class="badge">0</span>
                 </a>
+                <div>
+                  <div class="user-icon">
+    <a href="/usuario">
+      <i class="fas fa-user"></i>
+    </a>
+    </div>
+  </div>
             </div>
+            
         </div>
         <div class="col-lg-12">
           <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
@@ -78,8 +86,8 @@
                 <div class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
                   <div class="dropdown-menu rounded-0 m-0">
-                    <a href="cart.html" class="dropdown-item">Carrito</a>
-                    <a href="checkout.html" class="dropdown-item">Pago</a>
+                    <a href="/cart" class="dropdown-item">Carrito</a>
+                    <a href="/checkout" class="dropdown-item">Pago</a>
                   </div>
                 </div>
                 <a href="contact.html" class="nav-item nav-link">Contáctanos</a>
@@ -94,6 +102,7 @@
         </div>
       </div>
   </template>
+  
   
   <style scoped>
   
@@ -111,6 +120,27 @@
   text-decoration: none;
   background-color: var(--color11_opaco);
 } 
+.user-icon {
+  /* Estilos para el contenedor del icono */
+  display: inline-block; /* Ajusta el display según tu diseño */
+}
+
+.user-icon a {
+  /* Estilos para el enlace */
+  text-decoration: none; /* Elimina subrayado del enlace */
+  color: #333; /* Color del texto del enlace */
+}
+
+.user-icon a:hover {
+  /* Estilos para el enlace al pasar el ratón */
+  color: #666; /* Cambia el color al pasar el ratón */
+}
+
+.user-icon i {
+  /* Estilos para el icono */
+  font-size: 24px; /* Tamaño del icono */
+  margin-right: 5px; /* Espacio entre el icono y el texto (si aplica) */
+}
 
   </style>
   
