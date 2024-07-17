@@ -176,9 +176,4 @@
     /* Verde más oscuro */
 }
 
-@media (max-width: 760px) {
-    .container {
-        background-color: #3a006e;
-    }
-}
 </style>
