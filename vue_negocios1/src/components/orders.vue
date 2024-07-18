@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-<template> <h3 class="text-center mb-4">Pedidos en curso</h3>
+
+<template> 
+<h3 class="text-center mb-4">Pedidos en curso</h3>
  <div class="container border-0 mb-3">
     
 
@@ -145,10 +146,7 @@
     </div>
 </div>
 
-</template>
 
-=======
-<template>
     <div class="container border-0">
         <h3>Pedidos en curso</h3>
         <hr width="100%">
@@ -295,7 +293,7 @@
         </div>
     </div>
 </template>
->>>>>>> fe652839c03d1ddab15422270a179973dd67b98a
+
 <style scoped>
 hr {
     border: 1px solid black;
@@ -306,26 +304,26 @@ hr {
 }
 
 .caja-top {
-<<<<<<< HEAD
+
     padding: 1%;
     background-color: #edf1ff;
     border-radius: 10px 10px 0 0;
-=======
+
     padding-top: 1%;
     padding-left: 1%;
     background-color: #edf1ff;
     border-radius: 10px 10px 0px 0px;
->>>>>>> fe652839c03d1ddab15422270a179973dd67b98a
+
 }
 
 .caja-bottom {
     padding: 2%;
     border-top: hidden;
-<<<<<<< HEAD
+
     border-radius: 0 0 10px 10px;
-=======
+
     border-radius: 0px 0px 10px 10px;
->>>>>>> fe652839c03d1ddab15422270a179973dd67b98a
+
 }
 
 .btn {
@@ -334,7 +332,7 @@ hr {
     border-radius: 5px;
     color: #fff;
     cursor: pointer;
-<<<<<<< HEAD
+
     font-size: 0.8rem;
     transition: background-color 0.3s ease-in-out;
 }
@@ -359,10 +357,4 @@ hr {
     }
 }
 </style>
-=======
-    font-size: .8rem;
-    margin-top: 1%;
-    transition: background-color 0.3s ease-in-out;
-}
-</style>
->>>>>>> fe652839c03d1ddab15422270a179973dd67b98a
+ 
