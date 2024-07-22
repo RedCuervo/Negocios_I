@@ -6,15 +6,16 @@ import FAQ from '../components/FAQ.vue'
 import privacy from '../components/privacy.vue'
 import login from '../components/login.vue'
 import register from '../components/register.vue'
-import profile from '../components/PerfilUsuario.vue' // Importa el componente de perfil
-import Cart from '@/components/cart.vue'
-import Contact from '@/components/contact.vue'
-import PerfilUsuario from '../components/PerfilUsuario.vue'
-import Orders from '@/components/orders.vue'
-import Calendario from '@/components/calendario.vue'
-import Planes from '@/components/planes.vue'
-import Checkout from '@/components/checkout.vue'
-import PerfilNutriologo from '@/components/PerfilNutriologo.vue'
+import planes from '../components/planes.vue'
+import cart from '../components/cart.vue'
+import perfilusuario from '../components/PerfilUsuario.vue'
+import perfilnutriologo from '../components/PerfilNutriologo.vue'
+import calendario from '../components/calendario.vue'
+import checkout from '../components/checkout.vue'
+import wishlist from '../components/wishlist.vue'
+import contact from '../components/contact.vue'
+import orders  from '../components/orders.vue'
+import admin from '../components/admin.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -25,9 +26,50 @@ const router = createRouter({
       component: main
     },
     {
-      path:'/cart',
-      name: 'carrito',
-      component: Cart
+      path: '/wishlist',
+      name: 'Wishlist',
+      component: wishlist
+    },
+    {
+      path: '/admin',
+      name: 'Admin',
+      component: admin
+    },
+    {
+      path: '/orders',
+      name: 'Orders',
+      component: orders
+    },
+    {
+      path: '/checkout',
+      name: 'Checkout',
+      component: checkout
+    },
+    {
+      path: '/usuario',
+      name: 'Usuario',
+      component: perfilusuario
+    },
+    {
+      path: '/calendario',
+      name: 'Calendario',
+      component: calendario
+    },
+    {
+      path: '/nutriologo',
+      name: 'Nutriologo',
+      component: perfilnutriologo
+    },
+
+    {
+      path: '/cart',
+      name: 'Cart',
+      component: cart
+    },
+    {
+      path: '/planes',
+      name: 'Planes',
+      component: planes
     },
     {
       path: '/login',
@@ -38,6 +80,11 @@ const router = createRouter({
       path: '/register',
       name: 'Register',
       component: register
+    },
+    {
+      path: '/contact',
+      name: 'Contact',
+      component: contact
     },
     {
       path: '/shop',
@@ -68,47 +115,8 @@ const router = createRouter({
       path: '/Terms',
       name: 'Terminos y Condiciones',
       component: () => import('../components/terms.vue')
-    },
-    {
-      path: '/profile',
-      name: 'Perfil',
-      component: profile // Usa el componente de perfil importado
-    },
-    {
-      path:'/contact',
-      name: 'contacto',
-      component: Contact
-    },
-    {
-      path:'/usuario',
-      name: 'perfilusuario',
-      component: PerfilUsuario
-    },
-    {
-      path:'/orders',
-      name: 'compras',
-      component: Orders
-    },
-    {
-      path:'/calendario',
-      name: 'calendario',
-      component: Calendario
-    },
-    {
-      path:'/planes',
-      name: 'planes',
-      component: Planes
-    },
-    {
-      path:'/checkout',
-      name: 'checkout',
-      component: Checkout
-    },
-    {
-      path: '/perfilnutriologo',
-      name: 'nutriologos',
-      component: PerfilNutriologo
     }
+
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
