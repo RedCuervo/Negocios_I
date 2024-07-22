@@ -11,7 +11,11 @@ import cart from '../components/cart.vue'
 import perfilusuario from '../components/PerfilUsuario.vue'
 import perfilnutriologo from '../components/PerfilNutriologo.vue'
 import calendario from '../components/calendario.vue'
-
+import checkout from '../components/checkout.vue'
+import wishlist from '../components/wishlist.vue'
+import contact from '../components/contact.vue'
+import orders  from '../components/orders.vue'
+import admin from '../components/admin.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -20,6 +24,26 @@ const router = createRouter({
       path: '/',
       name: 'Inicio',
       component: main
+    },
+    {
+      path: '/wishlist',
+      name: 'Wishlist',
+      component: wishlist
+    },
+    {
+      path: '/admin',
+      name: 'Admin',
+      component: admin
+    },
+    {
+      path: '/orders',
+      name: 'Orders',
+      component: orders
+    },
+    {
+      path: '/checkout',
+      name: 'Checkout',
+      component: checkout
     },
     {
       path: '/usuario',
@@ -56,6 +80,11 @@ const router = createRouter({
       path: '/register',
       name: 'Register',
       component: register
+    },
+    {
+      path: '/contact',
+      name: 'Contact',
+      component: contact
     },
     {
       path: '/shop',

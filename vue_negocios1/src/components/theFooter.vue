@@ -20,12 +20,12 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Preguntas</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Preguntas.html#collapseOne"><i class="fa fa-angle-right mr-2"></i>Realizar pedido</a>
-                            <a class="text-dark mb-2" href="shop.html"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
-                            <a class="text-dark mb-2" href="detail.html"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
-                            <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                            <a class="text-dark mb-2" href="/FAQ"><i class="fa fa-angle-right mr-2"></i>Realizar pedido</a>
+                            <a class="text-dark mb-2" href="/shop"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
+                            <a class="text-dark mb-2" href="/shop"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
+                            <a class="text-dark mb-2" href="/cart"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-dark mb-2" href="/checkout"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-dark" href="/contact"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
@@ -33,9 +33,9 @@
                         <div class="d-flex flex-column justify-content-start">
                             <RouterLink to="/AboutUs" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Quienes somos</RouterLink>
                             <RouterLink to="/Terms" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Terminos y condiciones</RouterLink>
-                            <a class="text-dark mb-2" href="Preguntas.html"><i class="fa fa-angle-right mr-2"></i>Preguntas y respuestas</a>
+                            <a class="text-dark mb-2" href="/FAQl"><i class="fa fa-angle-right mr-2"></i>Preguntas y respuestas</a>
                             <RouterLink to="/privacy" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Aviso de privacidad</RouterLink>
-                            <a class="text-dark mb-2" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
+                            <a class="text-dark mb-2" href="/contact"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
