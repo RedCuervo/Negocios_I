@@ -17,11 +17,11 @@
         <table class="table table-bordered text-center mb-0">
           <thead class="bg-light-green text-dark">
             <tr>
-              <th>Products</th>
-              <th>Price</th>
-              <th>Quantity</th>
+              <th>Producto</th>
+              <th>Precio</th>
+              <th>Cantidad</th>
               <th>Total</th>
-              <th>Remove</th>
+              <th>Remover</th>
             </tr>
           </thead>
           <tbody class="align-middle">
@@ -29,7 +29,7 @@
               <td class="align-middle">
                 <div class="d-flex align-items-center">
                   <img src="../assets/img/Prod1-3.jpg" alt="Product Image" style="width: 100px; margin-right: 10px;">
-                  <span>Proteina</span>
+                  <span>Proteína</span>
                 </div>
               </td>
               <td class="align-middle">$150</td>
@@ -136,15 +136,15 @@
       <div class="col-lg-4">
         <form class="mb-5" action="">
           <div class="input-group">
-            <input type="text" class="form-control p-4" placeholder="Coupon Code">
+            <input type="text" class="form-control p-4" placeholder="Codigo del cupon">
             <div class="input-group-append">
-              <button class="btn btn-light-purple">Apply Coupon</button>
+              <button class="btn btn-light-purple">Aplicar cupon</button>
             </div>
           </div>
         </form>
         <div class="card border-light-purple mb-5">
           <div class="card-header bg-light-purple border-0">
-            <h4 class="font-weight-semi-bold text-light m-0">Cart Summary</h4>
+            <h4 class="font-weight-semi-bold text-light m-0">Resumen del carrito</h4>
           </div>
           <div class="card-body">
             <div class="d-flex justify-content-between mb-3 pt-1">
@@ -152,7 +152,7 @@
               <h6 class="font-weight-medium">$150</h6>
             </div>
             <div class="d-flex justify-content-between">
-              <h6 class="font-weight-medium">Shipping</h6>
+              <h6 class="font-weight-medium">Envío</h6>
               <h6 class="font-weight-medium">$10</h6>
             </div>
           </div>
@@ -161,7 +161,7 @@
               <h5 class="font-weight-bold">Total</h5>
               <h5 class="font-weight-bold">$160</h5>
             </div>
-            <a href="/checkout"><button class="btn btn-block btn-light-purple my-3 py-3" >Proceed To Checkout
+            <a href="/checkout"><button class="btn btn-block btn-light-purple my-3 py-3" >Proceder al pago
             </button></a>
             
           </div>
