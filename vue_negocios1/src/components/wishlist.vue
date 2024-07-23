@@ -39,9 +39,9 @@
                     <h6>Disponible</h6>
                 </div>
                 <div class="col-4">
-                    <button type="submit" class="btn">Ver producto</button><br>
-                    <button type="submit" class="btn">Añadir al carrito</button><br>
-                    <button type="submit" class="btn">Remover</button>
+                    <a href="/details"><button type="submit" class="btn">Ver producto</button></a><br>
+                    <a href="/cart"><button type="submit" class="btn">Añadir al carrito</button></a><br>
+                    <a href="/main"><button type="submit" class="btn">Remover</button></a>
                 </div>
             </div>
         </div>

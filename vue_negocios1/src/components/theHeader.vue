@@ -5,9 +5,11 @@
         <div class="d-inline-flex align-items-center">
           <RouterLink to="/FAQ" class="text-dark">Preguntas frecuentes</RouterLink>
           <span class="text-muted px-2">|</span>
-          <a class="text-dark" href="">Ayuda</a>
-          <span class="text-muted px-2">|</span>
-          <a class="text-dark" href="">Soporte</a>
+          <a class="text-dark"
+            href="https://wa.me/34678910112?text=Hola%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos"
+            target="_blank">
+            <i class="fab fa-whatsapp"></i> Ayuda
+          </a>
         </div>
       </div>
       <div class="col-lg-6 text-center text-lg-right">
@@ -32,7 +34,7 @@
     </div>
     <div class="row align-items-center py-3 px-xl-5">
       <div class="col-lg-5 d-none d-lg-block">
-        <a href="" class="text-decoration-none">
+        <a href="/" class="text-decoration-none">
           <h1 class="m-0 display-5 font-weight-semi-bold">
             <span style="color: rgb(101, 67, 199) !important;"
               class="text-primary font-weight-bold border px-3 mr-1">Platinum</span>Suplements
@@ -42,7 +44,7 @@
       <div class="col-lg-4 col-6 text-left">
         <form action="">
           <div class="input-group">
-            <input type="text" class="form-control" placeholder="Search for products" />
+            <input type="text" class="form-control" placeholder="Buscar productos" />
             <div class="input-group-append">
               <span class="input-group-text bg-transparent text-primary">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" class="bi bi-search" viewBox="0 0 16 16">
@@ -54,7 +56,6 @@
           </div>
         </form>
       </div>
-
       <div class="col-lg-3 col-6 text-right">
         <a href="/wishlist" class="btn border">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart"
@@ -97,13 +98,7 @@
           <div class="navbar-nav mr-auto py-0">
             <RouterLink to="/" class="nav-item nav-link active">Inicio</RouterLink>
             <RouterLink to="/shop" class="nav-item nav-link">Tienda</RouterLink>
-            <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
-              <div class="dropdown-menu rounded-0 m-0">
-                <a href="/cart" class="dropdown-item">Carrito</a>
-                <a href="/checkout" class="dropdown-item">Pago</a>
-              </div>
-            </div>
+            <RouterLink to="/cart" class="nav-item nav-link">Carrito</RouterLink>
             <a href="/contact" class="nav-item nav-link">Contáctanos</a>
           </div>
           <div class="navbar-nav ml-auto py-0">
@@ -132,5 +127,33 @@
 .text-dark:hover {
   text-decoration: none;
   background-color: var(--color11_opaco);
+}
+
+.user-icon {
+  /* Estilos para el contenedor del icono */
+  display: inline-block;
+  /* Ajusta el display según tu diseño */
+}
+
+.user-icon a {
+  /* Estilos para el enlace */
+  text-decoration: none;
+  /* Elimina subrayado del enlace */
+  color: #333;
+  /* Color del texto del enlace */
+}
+
+.user-icon a:hover {
+  /* Estilos para el enlace al pasar el ratón */
+  color: #666;
+  /* Cambia el color al pasar el ratón */
+}
+
+.user-icon i {
+  /* Estilos para el icono */
+  font-size: 24px;
+  /* Tamaño del icono */
+  margin-right: 5px;
+  /* Espacio entre el icono y el texto (si aplica) */
 }
 </style>
