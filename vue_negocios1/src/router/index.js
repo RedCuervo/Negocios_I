@@ -116,11 +116,6 @@ const router = createRouter({
       component: () => import('../components/terms.vue')
     },
     {
-      path:'/contact',
-      name: 'contacto',
-      component: Contact
-    },
-    {
       path:'/orders',
       name: 'compras',
       component: Orders
