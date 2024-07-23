@@ -116,25 +116,10 @@ const router = createRouter({
       component: () => import('../components/terms.vue')
     },
     {
-      path:'/calendario',
-      name: 'calendario',
-      component: Calendario
-    },
-    {
-      path:'/planes',
-      name: 'planes',
-      component: Planes
-    },
-    {
       path:'/checkout',
       name: 'checkout',
       component: Checkout
     },
-    {
-      path: '/perfilnutriologo',
-      name: 'nutriologos',
-      component: PerfilNutriologo
-    }
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
