@@ -60,7 +60,6 @@ const router = createRouter({
       name: 'Nutriologo',
       component: perfilnutriologo
     },
-
     {
       path: '/cart',
       name: 'Cart',
@@ -117,19 +116,9 @@ const router = createRouter({
       component: () => import('../components/terms.vue')
     },
     {
-      path: '/profile',
-      name: 'Perfil',
-      component: profile // Usa el componente de perfil importado
-    },
-    {
       path:'/contact',
       name: 'contacto',
       component: Contact
-    },
-    {
-      path:'/usuario',
-      name: 'perfilusuario',
-      component: PerfilUsuario
     },
     {
       path:'/orders',
