@@ -60,6 +60,7 @@ const router = createRouter({
       name: 'Nutriologo',
       component: perfilnutriologo
     },
+
     {
       path: '/cart',
       name: 'Cart',
@@ -114,12 +115,8 @@ const router = createRouter({
       path: '/Terms',
       name: 'Terminos y Condiciones',
       component: () => import('../components/terms.vue')
-    },
-    {
-      path:'/checkout',
-      name: 'checkout',
-      component: Checkout
-    },
+    }
+
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
