@@ -33,7 +33,7 @@
                         <div class="d-flex flex-column justify-content-start">
                             <RouterLink to="/AboutUs" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Quienes somos</RouterLink>
                             <RouterLink to="/Terms" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Terminos y condiciones</RouterLink>
-                            <a class="text-dark mb-2" href="/FAQ"><i class="fa fa-angle-right mr-2"></i>Preguntas y respuestas</a>
+                            <a class="text-dark mb-2" href="/FAQl"><i class="fa fa-angle-right mr-2"></i>Preguntas y respuestas</a>
                             <RouterLink to="/privacy" class="text-dark mb-2"><i class="fa fa-angle-right mr-2"></i>Aviso de privacidad</RouterLink>
                             <a class="text-dark mb-2" href="/contact"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
                         </div>
@@ -49,7 +49,7 @@
                                     required="required" />
                             </div>
                             <div>
-                                <button class="btn btn-block border-0 py-3" type="submit" style="background-color: mediumblue; color: white;">Suscríbete ahora</button>
+                                <button class="btn btn-block border-0 py-3" type="submit" style="background-color: #5E9188; color: white;">Suscríbete ahora</button>
                             </div>
                             
                         </form>

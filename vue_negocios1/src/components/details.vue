@@ -46,13 +46,10 @@
                             <input type="text" id="quantity" value="1" min="1" max="26">
                             <button class="quantity-button plus" onclick="incrementQuantity()">+</button>
                             <center>
-                                <a href="/cart">
-                                    <button type="submit" class="btn1">Añadir al carrito</button>
-                                </a>
-                                <a href="/wishlist">
+                                <button type="submit" class="btn1">Añadir al carrito</button>
                                 <button type="button" class="btn1">
                                     <i class="fas fa-heart" aria-hidden="true"></i>
-                                </button></a> 
+                                </button>
                             </center>
                         </div>
                     </div>
