@@ -116,11 +116,6 @@ const router = createRouter({
       component: () => import('../components/terms.vue')
     },
     {
-      path:'/orders',
-      name: 'compras',
-      component: Orders
-    },
-    {
       path:'/calendario',
       name: 'calendario',
       component: Calendario
